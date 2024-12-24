@@ -1,7 +1,7 @@
 # WordPress Intensive Landing (Production Build)
 
 This repository contains the **production build** (final version) of a landing page promoting a free two-day intensive course on creating and optimizing WordPress sites.  
-View the live site here: *[https://ksavdev.github.io/wordpress-intensive-landing/(https://ksavdev.github.io/wordpress-intensive-landing/)]*
+View the live site here: *[https://ksavdev.github.io/wordpress-intensive-landing/](https://ksavdev.github.io/wordpress-intensive-landing/)*
 
 **Technologies Used**:
 - **HTML5** — for the page structure.
